@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "877293610403",
+    "firebase_url": "https://flutter-springboot-auth.firebaseio.com",
+    "project_id": "flutter-springboot-auth",
+    "storage_bucket": "flutter-springboot-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877293610403:android:d6a9a6b6d78a99822aa616",
+        "android_client_info": {
+          "package_name": "etiennebel.flutterspringboot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877293610403-on86c2tbss1tgr926iocleb6h1oav5hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyQS1Q4x1CRRetkWql4H46OPCQw9Ngfig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877293610403-on86c2tbss1tgr926iocleb6h1oav5hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877293610403:android:b382dba34eefbaeb2aa616",
+        "android_client_info": {
+          "package_name": "gnegre.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877293610403-on86c2tbss1tgr926iocleb6h1oav5hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyQS1Q4x1CRRetkWql4H46OPCQw9Ngfig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877293610403-on86c2tbss1tgr926iocleb6h1oav5hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
